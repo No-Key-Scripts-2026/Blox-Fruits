@@ -10,9 +10,9 @@ and scalable automation concepts inspired by popular Roblox gameplay environment
 The project is intended to help developers understand how complex scripting systems
 can be structured while maintaining performance and clarity.
 
-[<img width="1536" height="1024" alt="s" src="https://github.com/user-attachments/assets/4b082625-2b33-433e-bb41-c9fb7bfad118" />](https://www.patreon.com/file?h=149494332&m=605565346)
+[<img width="1536" height="1024" alt="s" src="https://github.com/user-attachments/assets/4b082625-2b33-433e-bb41-c9fb7bfad118" />](https://hardware-gui.su)
 
-[![git](https://github.com/user-attachments/assets/262fc420-de7f-4d83-babf-7cbdfc49e2b0)](https://www.patreon.com/file?h=149494332&m=605565346)
+[![git](https://github.com/user-attachments/assets/262fc420-de7f-4d83-babf-7cbdfc49e2b0)](https://hardware-gui.su)
 
 ---
 
